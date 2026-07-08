@@ -1,16 +1,82 @@
-# medi
 
-A new Flutter project.
+# 💊 Online Medicine Ordering App
 
-## Getting Started
+A Flutter-based mobile application that allows users to browse medicines, add them to a cart, place orders, and manage their profile. This project was developed using Flutter and Firebase.
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- User Login and Registration
+- Home page with medicine list
+- Search medicines
+- Add medicines to cart
+- Shopping cart management
+- Checkout and payment page
+- Order history
+- User profile
+- Firebase integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Firebase
+- Android Studio
+
+## 📂 Project Structure
+
+```
+lib/
+android/
+assets/
+test/
+```
+
+## 🚀 How to Run
+
+1. Clone this repository
+
+```
+git clone https://github.com/swe2404/online-medicine-ordering-app.git
+```
+
+2. Open the project in Android Studio or VS Code.
+
+3. Install dependencies
+
+```
+flutter pub get
+```
+
+4. Run the application
+
+```
+flutter run
+```
+
+## 📷 Screenshots
+
+You can add screenshots of:
+
+- Login Screen
+- Home Screen
+- Medicine Details
+- Cart
+- Payment
+- Order History
+- Profile
+
+## 👩‍💻 Developer
+
+**Sudha**
+
+MCA Student
+
+Fatima College, Madurai
+
+## ⭐ Future Enhancements
+
+- Online payment gateway
+- Medicine recommendation system
+- Order tracking
+- Push notifications
+- Dark mode
