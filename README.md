@@ -3,7 +3,7 @@
 
 A Flutter-based mobile application that allows users to browse medicines, add them to a cart, place orders, and manage their profile. This project was developed using Flutter and Firebase.
 
-## 📱 Features
+## Features
 
 - User Login and Registration
 - Home page with medicine list
@@ -15,14 +15,14 @@ A Flutter-based mobile application that allows users to browse medicines, add th
 - User profile
 - Firebase integration
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Flutter
 - Dart
 - Firebase
 - Android Studio
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 lib/
@@ -31,7 +31,7 @@ assets/
 test/
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repository
 
@@ -53,7 +53,7 @@ flutter pub get
 flutter run
 ```
 
-## 📷 Screenshots
+##  Screenshots
 
 You can add screenshots of:
 
@@ -65,7 +65,7 @@ You can add screenshots of:
 - Order History
 - Profile
 
-## 👩‍💻 Developer
+##  Developer
 
 **SWETHA J**
 
@@ -73,7 +73,7 @@ MCA Student
 
 Fatima College, Madurai
 
-## ⭐ Future Enhancements
+## Future Enhancements
 
 - Online payment gateway
 - Medicine recommendation system
