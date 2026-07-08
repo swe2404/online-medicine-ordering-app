@@ -53,25 +53,47 @@ flutter pub get
 flutter run
 ```
 
-##  Screenshots
 
-You can add screenshots of:
+## 📷 Application Screenshots
 
-- Login Screen
-- Home Screen
-- Medicine Details
-- Cart
-- Payment
-- Order History
-- Profile
+### Splash Screen
+![Splash Screen](screenshots/01_splash_screen.jpeg)
 
-##  Developer
+### Welcome Screen
+![Welcome Screen](screenshots/02_welcome_screen.jpeg)
+
+### Sign Up Screen
+![Sign Up Screen](screenshots/03_signup_screen.jpeg)
+
+### Home Screen
+![Home Screen](screenshots/04_home_screen.jpeg)
+
+### Cart Screen
+![Cart Screen](screenshots/05_cart_screen.jpeg)
+
+### Checkout Screen
+![Checkout Screen](screenshots/06_checkout_screen.jpeg)
+
+### Payment Screen
+![Payment Screen](screenshots/07_payment_screen.jpeg)
+
+### Transaction History
+![Transaction History](screenshots/08_transaction_history.jpeg)
+
+### Orders Screen
+![Orders Screen](screenshots/09_orders_screen.jpeg)
+
+### Profile Screen
+![Profile Screen](screenshots/10_profile_screen.jpeg)
+
+## 👩‍💻 Developer
 
 **SWETHA J**
 
-MCA Student
-
-Fatima College, Madurai
+- MCA Student
+- Fatima College (Autonomous), Madurai
+- Flutter Developer
+- GitHub: https://github.com/swe2404
 
 ## Future Enhancements
 
