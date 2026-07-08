@@ -1,5 +1,5 @@
 
-# 💊 Online Medicine Ordering App
+# Online Medicine Ordering App
 
 A Flutter-based mobile application that allows users to browse medicines, add them to a cart, place orders, and manage their profile. This project was developed using Flutter and Firebase.
 
@@ -67,7 +67,7 @@ You can add screenshots of:
 
 ## 👩‍💻 Developer
 
-**Sudha**
+**SWETHA J**
 
 MCA Student
 
